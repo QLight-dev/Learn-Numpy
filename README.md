@@ -1,2 +1,2 @@
-i use w3schools to learn numpy
-this repo is a joke
+*** Learn Numpy here (if you want)
+i just used w3schools
